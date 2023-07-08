@@ -1,0 +1,52 @@
+.head {background-color: lime; 
+	width: 100%;
+	height: 100px;    
+}
+
+.head h1 
+{
+    text-align: center;
+    color: white;
+}
+
+.container { overflow: hidden;
+}
+.blog { background-color: yellow;
+	width:70%;
+    text-align: center;
+	height: 200px;
+	float: left; 
+}
+.contact { background-color: red;
+	width: 30%; 
+	height: 200px;
+    text-align: center;
+    color: #fff;
+	float: right; 
+    box-sizing: border-box;
+} 
+
+.item {width:33.33%;
+       height: 200px; 
+       text-align: center;
+       color: aliceblue;
+       float: left;
+
+}
+.blue { background-color: blue;
+
+}
+.green { background-color: green;
+	border: 5px solid red;
+	box-sizing: border-box;   
+}
+.orange { background-color: orange;
+} 
+
+.footer { background-color: #000;
+	width: 100%;
+	height: 100px; 
+    text-align: center;
+    color: azure;
+
+}
